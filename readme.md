@@ -1,9 +1,9 @@
 # Creat new git repo with existing code
 
-1. Create afolder for your project. 
+1. Create a folder for your project. 
 1. Copy all your existing files into that project folder. 
 1. Nevigate inside that folder using terminal.
-1. Initialize local git repozitory for theproject by executing 
+1. Initialize local git repository for the project by executing 
 
     ````
     git init
@@ -31,5 +31,7 @@
     git remote add origin https://github.com/tanvirulz/tutorial-for-tumpa.git
     git push -u origin master
     ```
-1. You have to provide user name and password as was prompted by the git terminal
+    Note that the username is tanvirulz here since I am creating this. 
+    
+1. You have to provide user name and password as prompted by the git terminal
 
